@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/natekdal/helloWorld/media/videos/hello/480p15/partial_movie_files/PolarRightTriangle/1584795214_929457593_223132457.mp4'
+file 'file:/home/natekdal/helloWorld/media/videos/hello/480p15/partial_movie_files/PolarRightTriangle/4072820271_3225186566_112980783.mp4'
+file 'file:/home/natekdal/helloWorld/media/videos/hello/480p15/partial_movie_files/PolarRightTriangle/4072820271_3853758405_2911160590.mp4'
+file 'file:/home/natekdal/helloWorld/media/videos/hello/480p15/partial_movie_files/PolarRightTriangle/4072820271_2933623060_1790793725.mp4'
+file 'file:/home/natekdal/helloWorld/media/videos/hello/480p15/partial_movie_files/PolarRightTriangle/4072820271_4023616846_2239427659.mp4'
+file 'file:/home/natekdal/helloWorld/media/videos/hello/480p15/partial_movie_files/PolarRightTriangle/4072820271_2834709167_1795795623.mp4'

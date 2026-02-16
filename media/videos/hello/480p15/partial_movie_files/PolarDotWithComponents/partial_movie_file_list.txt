@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/natekdal/helloWorld/media/videos/hello/480p15/partial_movie_files/PolarDotWithComponents/1584795214_2525250918_63491.mp4'
