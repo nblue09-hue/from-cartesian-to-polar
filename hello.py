@@ -63,7 +63,6 @@ class RightTriangleScene(MovingCameraScene):
         self.play(Create(circles), Create(radial_lines))
 
         # ----------------------------
-        # 🔥 BOLD ANGLE LINES (KEY FIX)
         # ----------------------------
         major_angles = [
             PI/6, PI/4, PI/3, PI/2,
@@ -282,7 +281,7 @@ class RightTriangleScene(MovingCameraScene):
                 .shift(4 * LEFT)
         )
         graph_origin = polarplane.polar_to_point(0, 0) * 0.75 + 4 * LEFT
-
+        
 
         self.wait(0.5)
         # --------------------------
@@ -425,7 +424,6 @@ class RightTriangleScene(MovingCameraScene):
             hypotenuse.get_midpoint() + 0.2 * UP
         )
         # ----------------------------
-       
         xcord1 = MathTex(r"x = 2\left(\frac{1}{\sqrt{2}}\right)").scale(0.7)
         ycord1 = MathTex(r"y = 2\left(\frac{1}{\sqrt{2}}\right)").scale(0.7)
         xcord1.next_to(xmath, DOWN, buff=0.4)
