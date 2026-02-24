@@ -1,4 +1,5 @@
 # from-cartesian-to-polar
+Manim recently updated so code is out of date.
 # Polar Coordinates: A Visual Explanation
 
 This project is an animated visual explanation of polar coordinates created using Manim. It focuses on building intuition rather than memorization, showing how circular motion naturally leads to sine, cosine, and the polar coordinate system.
